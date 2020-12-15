@@ -11,7 +11,7 @@
     </a>
     <span>&nbsp;</span>
     <a href="https://github.com/SCastanedaMunoz?tab=followers">
-        <img src="https://img.shields.io/github/followers/tariq86.svg?label=follow&style=social" alt="GitHub Follower Count" />
+        <img src="https://img.shields.io/github/followers/SCastanedaMunoz.svg?label=follow&style=social" alt="GitHub Follower Count" />
     </a>
     <span>&nbsp;</span>
         <img src="https://img.shields.io/github/stars/SCastanedaMunoz?style=social" alt="GitHub Star Count" />
