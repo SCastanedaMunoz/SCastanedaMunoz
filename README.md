@@ -21,7 +21,7 @@
 
 # About Me!
 
-Hey, I am Santiago. I am a Software Engineer based in Austin, Texas. I currently work for Tilting Point Media as a Junior Client Engineer.
+Hey, I am Santiago. I am a Software Engineer based in Austin, Texas. I currently work for Chartboost as a Unity Engineer.
 
 - **Visit My Portfolio**: [Here!](https://scastanedamunoz.github.io/React-Portfolio/)
 - **Contact Me**: [santiagocm98@hotmail.com](mailto:santiagocm98@hotmail.com)
