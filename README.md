@@ -21,13 +21,6 @@
 
 # About Me!
 
-Hey, I am Santiago. I am a Software Engineer based in Austin, Texas. I currently work for Chartboost as a Unity Engineer.
-
-- **Visit My Portfolio**: [Here!](https://scastanedamunoz.github.io/React-Portfolio/)
-- **Contact Me**: [santiagocm98@hotmail.com](mailto:santiagocm98@hotmail.com)
-
-I am currently taking a Web Full Stack Bootcamp at UT Austin. This besides my prior knowledge in Game & Software Development allow me to be versatile and work in a huge variety of projects!
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=SCastanedaMunoz&theme=radical" />
 </p>
