@@ -24,17 +24,12 @@
 Experienced Software Engineer with over 6 years in multiplatform game development, specializing in the mobile gaming industry.
 Proven expertise in designing and implementing Ad Tech mediation services, optimizing game mechanics, deployments and live operations systems for multiple AAA mobile titles. Adept at delivering high-quality solutions under tight deadlines, leveraging strong problem-solving, management, and rapid learning abilities. Known for driving efficiency and innovation in high-pressure environments while collaborating with cross-functional teams to achieve business goals.
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=scastanedamunoz&count_private=true&show_icons=true&theme=radical" />
-</p>
-
----
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SCastanedaMunoz&theme=radical" />
-</p>
-
----
+<a href="https://github.com/scastanedamunoz/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-santiago-castaneda-munozs-projects.vercel.app/api?username=scastanedamunoz&include_all_commits=true&show_icons=true&theme=merko" />
+</a>
+<a href="https://github.com/scastanedamunoz/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-santiago-castaneda-munozs-projects.vercel.app/api/top-langs?username=scastanedamunoz&layout=compact&langs_count=8&card_width=320&theme=merko" />
+</a>
 
 # Technologies I use
 
