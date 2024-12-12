@@ -21,6 +21,9 @@
 
 # About Me!
 
+Experienced Software Engineer with over 6 years in multiplatform game development, specializing in the mobile gaming industry.
+Proven expertise in designing and implementing Ad Tech mediation services, optimizing game mechanics, deployments and live operations systems for multiple AAA mobile titles. Adept at delivering high-quality solutions under tight deadlines, leveraging strong problem-solving, management, and rapid learning abilities. Known for driving efficiency and innovation in high-pressure environments while collaborating with cross-functional teams to achieve business goals.
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=scastanedamunoz&count_private=true&show_icons=true&theme=radical" />
 </p>
